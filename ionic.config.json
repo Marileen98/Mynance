@@ -1,0 +1,8 @@
+{
+  "name": "Mynance",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "51453acb"
+}
